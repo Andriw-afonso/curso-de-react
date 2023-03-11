@@ -7,7 +7,11 @@ function Form (){
         <div>
             <form onSubmit={cadastrarUsuario}>
                 <div>
+                    <label ></label>
                     <input type="text" placeholder="Digite o seu nome"/>
+                </div>
+                <div>
+                    <input type="password" value="Digíte a sua senha."/>
                 </div>
                 <div>
                     <input type="submit" value="Cadastro"/>
