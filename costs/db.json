@@ -1,240 +1,37 @@
 {
   "projects": [
     {
-      "name": "hhgcvh",
+      "name": "nnbk",
+      "budget": "2121",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "hhgcvh",
+      "name": "hgjhb",
+      "budget": "1212",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
       "cost": 0,
       "services": [],
-      "budget": "120",
       "id": 2
     },
     {
-      "name": "lçml",
-      "budget": "12132",
+      "name": "ggjv",
+      "budget": "2121",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
       "id": 3
-    },
-    {
-      "name": "teste1",
-      "budget": "2000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "jnjknjkn",
-      "budget": "5241321",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "jhbjhb",
-      "budget": "21321",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "bnkjhk",
-      "budget": "15415",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "kmkm",
-      "budget": "5454",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "mn,mnk",
-      "budget": "323232",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "name": "bnkjbk",
-      "budget": "12121",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "name": "mlkmlk",
-      "budget": "321321",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "name": "lmkçm",
-      "budget": "5151",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "name": "lkkjkl",
-      "budget": "55545",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
-      "name": "kmkmkm",
-      "budget": "12212",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 14
-    },
-    {
-      "name": "njnkjn",
-      "budget": "12515",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 15
-    },
-    {
-      "name": "kjmkl",
-      "budget": "121",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 16
-    },
-    {
-      "name": "mklmlkm",
-      "budget": "11121",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 17
-    },
-    {
-      "name": "lkmnlkmn",
-      "budget": "11521",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 18
-    },
-    {
-      "name": "mkll",
-      "budget": "121",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 19
-    },
-    {
-      "name": "nbjb",
-      "budget": "15212",
-      "cost": 0,
-      "services": [],
-      "id": 20
-    },
-    {
-      "name": "bjhjh",
-      "budget": "1212",
-      "cost": 0,
-      "services": [],
-      "id": 21
-    },
-    {
-      "name": "fhg",
-      "budget": "0323",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 22
-    },
-    {
-      "name": "kjkçm",
-      "budget": "121",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 23
     }
   ],
   "categories": [
