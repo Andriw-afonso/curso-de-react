@@ -6,6 +6,7 @@ import NewProject from "./components/pages/NewProject"
 import Navbar from "./components/layout/Navbar"
 import Footer from "./components/layout/Footer"
 import Projects from "./components/pages/Projects"
+import Project from "./components/pages/Project"
 //import Container from "./components/layout/Container" Implementar a aula 18
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/projects"    element={<Projects/>}/>
           <Route path="/company"     element={<Company/>}/>          
           <Route path="/newproject"  element={<NewProject/>}/> 
+          <Route path="/project/:id"  element={<Project/>}/>
           <Route path="/contact"     element={<Contact/>}/>   
       </Switch>
       <Footer/>
