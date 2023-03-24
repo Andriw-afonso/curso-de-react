@@ -32,6 +32,28 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "lçl",
+      "budget": "5145",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "njknklj",
+      "budget": "1451",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
